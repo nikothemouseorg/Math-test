@@ -1,7 +1,7 @@
 # Math-test
 \*an epic intro\*
 A new game designed by meh. It's an easy math game. In math problems will appear only numbers from ZERO to NINE. So, it is veeeeery eeeeeeeeeeaaaaaaaaaassssssssssssyyyyyyyyy! Every stage (there are 9 stages) has 3 levels, every level has 5 math questions. In each level u have some bonus points. Every next stage costs 50% more than prevous. Second Stage costs 500 points :D. 
-Contact at: *Objection.lol: http://objection.lol/courtroom/04wxe6*
+Contact at: *Objection.lol: http://objection.lol/courtroom/04wxe6*;  
 Discord: Background#2982
 
 Перевод:
